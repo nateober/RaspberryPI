@@ -1,3 +1,8 @@
+/* I DIDN’T WRITE THIS PROGRAM AND I DO NOT IN ANY SHAPE GUARANTEE IT NOR DO I WARRANTEE IT FOR ANY PURPOSE 
+
+I FOUND THIS PROGRAM HERE: http://www.raspberrypi.org/forums/viewtopic.php?f=63&t=72070
+*/
+
 Warning! There is no datasheet with informations about the configuration of LED and GPIO outputs of the 9512 chip.
 I figured out how to drive the LEDs by trial and error and by reading the source code of the smsc9512 driver.
 So there is a chance that there are side effects although I have not observed any until now.
